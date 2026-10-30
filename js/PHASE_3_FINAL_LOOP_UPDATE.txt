@@ -1,0 +1,12 @@
+PHASE 3 — FINAL TESTIMONIAL LOOP UPDATE
+
+- Removed previous/next buttons, navigation controls, progress dots, and visible scrollbar.
+- Changed the carousel to a continuous, smooth horizontal loop at approximately 34 pixels per second.
+- Duplicated the seven demo cards to avoid a visible jump when the row loops.
+- Kept the 9:16 portrait cards and click-to-open video modal.
+- Auto-scroll pauses while a video modal is open and resumes when it closes.
+- Respects the operating system reduced-motion preference.
+- Demo videos, names, and captions remain illustrative placeholders; replace with customer-approved media before publishing.
+
+Run locally from the website folder: python -m http.server 8000
+Then open http://localhost:8000

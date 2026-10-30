@@ -1,0 +1,10 @@
+Homepage revision based on customer feedback:
+- Added the customer-supplied video as assets/hero-lab.mp4.
+- Header on homepage is transparent, has no blur/background, and is absolute rather than sticky/fixed; it scrolls away with the page.
+- Homepage hero fills the viewport.
+- Company counters start at zero and float transparently over the video near the bottom.
+- Latest Products section remains directly below the hero.
+
+Run from this folder with: python -m http.server 8000
+Open: http://localhost:8000
+Note: video file is approximately 35 MB.

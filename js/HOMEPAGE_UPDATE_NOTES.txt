@@ -1,0 +1,23 @@
+HOMEPAGE UPDATE — CUSTOMER REVIEW VERSION
+
+Updated:
+- Homepage hero headline: “Advancing diagnostics for a healthier world.”
+- Transparent, overlay navigation over the hero.
+- Full-width video element remains configured to load assets/hero-lab.mp4.
+- Company counters now animate from 0 to their configured totals whenever the homepage is loaded.
+- Latest Products section styled as a white, four-column product row inspired by the provided screenshot.
+- Product category shortcut links below the featured product row.
+- Responsive layout for tablet and mobile.
+- Separate pages and existing navigation remain in place.
+
+VIDEO NOTE:
+The message contained three screenshots, but no video file was attached. To use the exact customer-approved video, copy it into this folder as:
+assets/hero-lab.mp4
+The homepage already has the video source configured. Use a video you own or have permission to use, preferably compressed MP4 (H.264), muted, and optimized for web.
+
+STATISTICS NOTE:
+Counters currently animate to: Country Presence 2+, Employees 100+, Customers 1,000+, Channel Partners 400+.
+Please confirm these values with the customer before production.
+
+PRODUCT IMAGES:
+Featured product images currently reference public Dr. NTR Biosciences URLs and require internet access. Confirm product details and image permissions before launch.

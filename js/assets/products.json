@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Bio Chemistry",
+    "name": "LCA 70 – Semi Auto Chemistry Analyzer",
+    "detail": "Semi-automatic clinical chemistry analyzer for routine laboratory workflows.",
+    "image": "assets/products/original/electrolyte-analyzer-wide.jpg",
+    "source": "https://www.drntrbiosciences.com/bio-chemistry/"
+  },
+  {
+    "category": "Bio Chemistry",
+    "name": "LCA 160 – Fully Automated Random Access Biochemistry Analyzer",
+    "detail": "Fully automated random-access biochemistry analyzer.",
+    "image": "assets/products/original/electrolyte-analyzer-wide.jpg",
+    "source": "https://www.drntrbiosciences.com/bio-chemistry/"
+  },
+  {
+    "category": "Bio Chemistry",
+    "name": "LCA 300 – Fully Auto Chemistry Analyzer",
+    "detail": "Automated chemistry platform in the Lorven clinical chemistry range.",
+    "image": "assets/products/original/electrolyte-analyzer-wide.jpg",
+    "source": "https://www.drntrbiosciences.com/bio-chemistry/"
+  },
+  {
+    "category": "Bio Chemistry",
+    "name": "Medicon MQ 3000PT – HbA1c Analyzer",
+    "detail": "Glycated hemoglobin (HbA1c) analyzer.",
+    "image": "assets/products/original/electrolyte-analyzer-wide.jpg",
+    "source": "https://www.drntrbiosciences.com/bio-chemistry/"
+  },
+  {
+    "category": "Hematology",
+    "name": "7P-HEM – 7-Diff Auto Hematology Analyzer",
+    "detail": "Seven-part differential automated hematology analyzer.",
+    "image": "assets/products/original/lorven-hematology-reference.jpg",
+    "source": "https://www.drntrbiosciences.com/hematology/"
+  },
+  {
+    "category": "Coagulation",
+    "name": "Coagulation Analyzer",
+    "detail": "Diagnostic analyzer for blood coagulation testing.",
+    "image": "assets/products/original/blood-coagulation-analyzer.jpg",
+    "source": "https://www.drntrbiosciences.com/coagulation/"
+  },
+  {
+    "category": "Point Of Care",
+    "name": "Electrolyte Analyzer",
+    "detail": "Point-of-care electrolyte testing solution.",
+    "image": "assets/products/original/electrolyte-analyzer.jpg",
+    "source": "https://www.drntrbiosciences.com/point-of-care/"
+  },
+  {
+    "category": "Rapid Tests",
+    "name": "Rapid Diagnostic Tests",
+    "detail": "Rapid tests across infectious disease and other diagnostic categories. Check official catalog for exact assay availability.",
+    "image": "assets/products/original/diagnostic-lab-sampling.jpg",
+    "source": "https://www.drntrbiosciences.com/rapid-tests/"
+  }
+]

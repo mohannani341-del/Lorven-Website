@@ -1,0 +1,3 @@
+LOGO ASSET NOTE
+
+The current website still has a text/CSS Lorven mark in the header and the footer's temporary LORVEN lockup. To replace these with the authentic Dr. NTR Biosciences / Lorven company logo, add the approved transparent PNG or SVG logo asset and update the shared header/footer markup. The official website is https://www.drntrbiosciences.com/. The authentic logo binary could not be reliably retrieved in this environment, so no fabricated logo has been presented as the real one.

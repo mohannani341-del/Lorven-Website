@@ -1,0 +1,11 @@
+PHASE 2 — LATEST PRODUCTS
+
+Changes:
+- Refined the Latest Products section with a cleaner diagnostics-brand visual style.
+- Fixed broken remote image dependencies by bundling local product artwork in assets/products/.
+- Updated the product catalogue JSON to use local image assets, so the catalogue does not rely on external image URLs for these visuals.
+- Preserved the homepage hero video, transparent non-sticky navigation, counters, separate pages, product links and enquiry navigation.
+
+Important:
+- The local SVG artwork is illustrative product artwork for the design preview, not a substitute for approved photographs of the exact commercial products. Replace these SVGs with approved company product photographs before production.
+- Verify company statistics and all product details before publishing.

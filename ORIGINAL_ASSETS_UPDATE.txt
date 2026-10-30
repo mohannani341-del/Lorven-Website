@@ -1,0 +1,7 @@
+ORIGINAL ASSETS UPDATE
+
+Recovered from the provided WordPress uploads archive: Lorven logo files and product images for blood gas, electrolyte, urine, and blood coagulation analyzers. The product catalog and homepage now use local recovered product photos instead of illustrative SVGs where suitable. Remote WordPress product-image references were replaced with local assets so the site works offline/local-hosted.
+
+VIDEO PRESERVATION: assets/hero-lab.mp4 was not modified. Existing testimonial placeholder video and demo testimonial cards were also retained as they were in the prior website package; they are not asserted to be original customer videos. No original customer testimonial videos were found in the selected image-only asset package.
+
+Please verify all product-image/product-name matches and confirm permissions/content before production.

@@ -1,0 +1,11 @@
+PHASE 3 VIDEO TESTIMONIALS — PORTRAIT/AUTO-SCROLL REVISION
+
+Updates in this revision:
+- Testimonial preview frames use a vertical 9:16 portrait ratio.
+- The carousel advances automatically every 3.6 seconds, one card at a time, and loops back to the beginning.
+- Auto-scroll pauses when visitors hover, focus, or touch the carousel, and while a video popup is open.
+- Previous/next controls remain available.
+- Clicking a video opens a centered modal player styled for a 9:16 portrait video.
+- The modal closes with its close button, backdrop click, or Escape.
+
+All seven testimonials remain clearly marked as demo placeholders. Replace the demo content with customer-approved names, quotes, thumbnail images, and real 9:16 video files before production. For best results, encode videos as MP4 (H.264 video/AAC audio).

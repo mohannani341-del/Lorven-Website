@@ -1,0 +1,1 @@
+Homepage update: Removed the feature band section containing the large standalone hematology-analyzer image and its accompanying company-profile text, as requested. The hero video and other homepage sections are unchanged.
